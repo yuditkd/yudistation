@@ -1,6 +1,6 @@
 <h2>Hello!👋</h2>
 <p>I'm Gabriel Yudi, a 20 years old TI Support at Agristore.</p>
-<h2>Skills</h2>
+<h2>💼 Skills</h2>
 <ul>
   <li>
     👨‍💻 HTML, CSS, JavaScript, C
@@ -15,12 +15,17 @@
     <a href="https://www.instagram.com/yudistation">Instagram</a>
   </li>
 </ul>
-<h2>GitHub Stats</h2>
+<h2>📈 GitHub Stats</h2>
+<!---
 <a href="https://github.com/yudistation">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=yudistation&theme=material-palenight&show_icons=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=yudistation&theme=material-palenight&show_icons=true" style="max-width: 100%;">
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=yudistation&theme=material-palenight&show_icons=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=yudistation&theme=material-palenight&show_icons=true" style="padding-right: 20px;">
 </a>
 <a href="https://github.com/yudistation">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudistation&layout=compact&theme=material-palenight" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudistation&layout=compact&theme=material-palenight" style="max-width: 100%;">
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudistation&layout=compact&theme=material-palenight" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudistation&layout=compact&theme=material-palenight">
+</a>
+--->
+<a href="https://github.com/yudistation">
+  <img id="streak_status" align="center" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=yudistation&theme=material-palenight" data-canonical-src="https://git.io/streak-stats">
 </a>
 <hr>
 
