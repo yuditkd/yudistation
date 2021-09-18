@@ -1,10 +1,10 @@
 <h2>Hello!👋</h2>
 <p>I'm Gabriel Yudi, a 20 years old TI Support at Agristore.</p>
-<h2>💼 Skills</h2>
+<h2>💼 Skills 👨‍💻</h2>
 <ul>
-  <li>
-    👨‍💻 HTML, CSS, JavaScript, C
-  </li>
+  <li> HTML5</li>
+  <li>CSS3</li>
+  <li>C</li>
 </ul>
 <h2>Contact</h2>
 <ul>
