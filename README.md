@@ -9,7 +9,7 @@
 <h2>Contact</h2>
 <ul>
   <li>
-    <a href="https://www.linkedin/in/gabrielyudi">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/gabrielyudi">LinkedIn</a>
   </li>
   <li>
     <a href="https://www.instagram.com/yudistation">Instagram</a>
