@@ -1,5 +1,5 @@
 <h2>Hello!👋</h2>
-<p>I'm Gabriel Yudi, a 20 years old TI Support at Agristore.</p>
+<p>I'm Gabriel Yudi, a 20 years old IT Analyst at Agristore.</p>
 <h2>💼 Skills 👨‍💻</h2>
 <ul>
   <li> HTML5</li>
