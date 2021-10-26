@@ -9,6 +9,7 @@ I'm Gabriel Yudi, a 20 years old IT Analyst at Agristore.
 ## 📈 GitHub Stats
 
 ![Yudi's github stats](https://github-readme-stats.vercel.app/api?username=yudistation&show_icons=true&theme=material-palenight)
+![Yudi's github stats](https://github-readme-streak-stats.herokuapp.com/?user=yudistation&theme=material-palenight)
 
 <div align="center">
   
