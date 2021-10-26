@@ -1,12 +1,11 @@
-<h2>Hello!👋</h2>
-<p>I'm Gabriel Yudi, a 20 years old IT Analyst at Agristore.</p>
-<h2>💼 Skills 👨‍💻</h2>
-<ul>
-  <li> HTML5</li>
-  <li>CSS3</li>
-  <li>C</li>
-</ul>
-<h2>Contact</h2>
+## Hello!👋
+I'm Gabriel Yudi, a 20 years old IT Analyst at Agristore.
+## 💼 Skills 👨‍💻
+- HTML5
+- CSS3
+- C
+
+## Contact
 <ul>
   <li>
     <a href="https://www.linkedin.com/in/gabrielyudi">LinkedIn</a>
@@ -16,14 +15,7 @@
   </li>
 </ul>
 <h2>📈 GitHub Stats</h2>
-<!---
-<a href="https://github.com/yudistation">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=yudistation&theme=material-palenight&show_icons=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=yudistation&theme=material-palenight&show_icons=true" style="padding-right: 20px;">
-</a>
-<a href="https://github.com/yudistation">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudistation&layout=compact&theme=material-palenight" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudistation&layout=compact&theme=material-palenight">
-</a>
---->
+
 <a href="https://github.com/yudistation">
   <img id="streak_status" align="center" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=yudistation&theme=material-palenight" data-canonical-src="https://git.io/streak-stats">
 </a>
