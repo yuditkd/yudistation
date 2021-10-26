@@ -5,9 +5,6 @@ I'm Gabriel Yudi, a 20 years old IT Analyst at Agristore.
 - CSS3
 - C
 
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/gabrielyudi)
-- [Instagram](https://www.instagram.com/yudistation)
 
 ## 📈 GitHub Stats
 
