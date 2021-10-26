@@ -6,20 +6,12 @@ I'm Gabriel Yudi, a 20 years old IT Analyst at Agristore.
 - C
 
 ## Contact
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/gabrielyudi">LinkedIn</a>
-  </li>
-  <li>
-    <a href="https://www.instagram.com/yudistation">Instagram</a>
-  </li>
-</ul>
-<h2>📈 GitHub Stats</h2>
+- [LinkedIn](https://www.linkedin.com/in/gabrielyudi)
+- [Instagram](https://www.instagram.com/yudistation)
 
-<a href="https://github.com/yudistation">
-  <img id="streak_status" align="center" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=yudistation&theme=material-palenight" data-canonical-src="https://git.io/streak-stats">
-</a>
-<hr>
+## 📈 GitHub Stats
+
+![Yudi's github stats](https://github-readme-streak-stats.herokuapp.com/?user=yudistation&theme=material-palenight)
 
 <!---
 yudistation/yudistation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
