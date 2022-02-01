@@ -1,11 +1,11 @@
 ## Hello!👋
 I'm Gabriel Yudi, a 20 years old IT Analyst at Agristore.
 ## 💼 Skills 👨‍💻
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- C
+- HTML5;
+- CSS3;
+- JavaScript (ES6);
+- PHP;
+- C.
 
 ## 📈 GitHub Stats
 <div>
