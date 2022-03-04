@@ -1,4 +1,4 @@
-<img align="right" width="150" alt="Yudi Logo" src="https://imgur.com/uSWktw7.png">
+<img align="right" width="200" alt="Yudi Logo" src="programming_img.png">
 
 ## Hello!👋
 I'm Gabriel Yudi, a 20 years old IT Analyst at Agristore.🤠<br>
