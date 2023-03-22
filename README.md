@@ -12,7 +12,10 @@ I wanna be a Fullstack developer in the future.🚀
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-7377ad?style=flat&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![OpenCart](https://img.shields.io/badge/OpenCart-007cbc?style=flat&logo=opencart&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![ReactJS](https://img.shields.io/badge/React.js-35495E?style=flat&logo=react&logoColor=00DCFF)
 ![Wordpress](https://img.shields.io/badge/Wordpress-007095?style=flat&logo=wordpress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
@@ -20,12 +23,9 @@ I wanna be a Fullstack developer in the future.🚀
   
 #### Technologies I wanna learn:
 
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![VueJS](https://img.shields.io/badge/Angular-%23C21325?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-561ba3?style=flat&logo=dotnet&logoColor=fff)
 ![C#](https://img.shields.io/badge/C%23-561ba3?style=flat&logo=c-sharp&logoColor=fff)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 
 ## Social medias
