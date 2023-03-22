@@ -3,7 +3,8 @@
 ## Hello!👋
 I'm Gabriel Yudi, a 21 years old IT Analyst at Agristore.🤠<br>
 I like to study new techs and play games.🎮<br>
-I wanna be a Fullstack developer in the future.🚀
+I'm a fullstack developer.
+
 ## 💼 Skills 👨‍💻
 
 #### Technologies that I'm currently using:
