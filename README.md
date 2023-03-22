@@ -1,7 +1,7 @@
 <img align="right" width="200" alt="Yudi Logo" src="programming_img.png">
 
 ## Hello!👋
-I'm Gabriel Yudi, a 21 years old IT Analyst at Agristore.🤠<br>
+I'm Gabriel Yudi, a 21 years old Senior IT Analyst at Agristore.🤠<br>
 I like to study new techs and play games.🎮<br>
 I'm a fullstack developer.
 
