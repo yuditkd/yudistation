@@ -62,6 +62,8 @@ I'm a fullstack developer.
 [![Twitter Badge](https://img.shields.io/badge/yudistation-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yudistation)](https://twitter.com/yudistation)
 [![Github Badge](https://img.shields.io/badge/yudistation-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/yudistation)](https://github.com/yudistation)
 [![Instagram Badge](https://img.shields.io/badge/yudistation-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://https://www.instagram.com/yudistation/)](https://www.instagram.com/yudistation/)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yudistation&theme=dark&border_radius=15&fire=744EEB&ring=744EEB&currStreakLabel=744EEB&border=744EEB)](https://git.io/streak-stats)
  
 <!---
 yudistation/yudistation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
